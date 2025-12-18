@@ -14,8 +14,6 @@ A simple and modern weather application built with **React** and **Vite**. The a
 
   * Temperature
   * Weather condition
-  * Humidity
-  * Wind speed
 * Weather icons based on conditions
 * Error handling for invalid city names
 * Responsive design (desktop & mobile)
